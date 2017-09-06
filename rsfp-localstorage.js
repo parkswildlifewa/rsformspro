@@ -1,5 +1,3 @@
-<script type = "text/javascript">
-
 jQuery(document).ready(function($) {
 	'use strict';
 	// we create an object that holds our function
@@ -107,5 +105,3 @@ jQuery(document).ready(function($) {
 		});
 	}
 });
-
-</script>
