@@ -1,5 +1,5 @@
 # rsformspro
-Scrips for extending RS Forms Pro
+Scripts for extending RS Forms Pro
 
 Extending the usage of RS Forms pro by allowing simple local storage for forms, to allow for "save and edit later" fubnctionality.
 
